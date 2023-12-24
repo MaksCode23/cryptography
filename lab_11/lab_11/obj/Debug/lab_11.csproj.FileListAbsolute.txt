@@ -1,0 +1,7 @@
+F:\Visual Studio\lab_11\lab_11\bin\Debug\lab_11.exe.config
+F:\Visual Studio\lab_11\lab_11\bin\Debug\lab_11.exe
+F:\Visual Studio\lab_11\lab_11\bin\Debug\lab_11.pdb
+F:\Visual Studio\lab_11\lab_11\obj\Debug\lab_11.csproj.AssemblyReference.cache
+F:\Visual Studio\lab_11\lab_11\obj\Debug\lab_11.csproj.CoreCompileInputs.cache
+F:\Visual Studio\lab_11\lab_11\obj\Debug\lab_11.exe
+F:\Visual Studio\lab_11\lab_11\obj\Debug\lab_11.pdb
